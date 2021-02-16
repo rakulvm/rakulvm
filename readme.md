@@ -7,7 +7,7 @@
 
 $ A Budding FSD (Full Stack Developer) | UI/UX Desginer | Photographer for official websites | Technology Inspirer
 
-$ Get me here <p align="center"> <a href="mailto:rakulcareer6@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="postman" width="40" height="40"/> </a> </p>
+$ Get me here   <a href="mailto:rakulcareer6@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="postman" width="40" height="40"/> </a>
 
 <hr><p align="center">
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
