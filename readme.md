@@ -1,10 +1,7 @@
 <h1 align="center">Hello world, this is <a href ="#"></a> Rakul</h1>
 <h3 align="center">Learning, Competing, Conquering. </h3>
 <p align="center">
-
-<a href="https://www.instagram.com/rakul_20" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rakul" height="30" width="25" /></a>
-
-<a href="https://www.linkedin.com/in/rakul-v-m-807aa2159/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rakul" height="30" width="25" /></a>
+<a href="https://www.instagram.com/rakul_20" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rakul" height="30" width="25" /></a> <a href="https://www.linkedin.com/in/rakul-v-m-807aa2159/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rakul" height="30" width="25" /></a>
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=rakulvm" alt="Rakul"/></p>
 
