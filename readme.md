@@ -7,7 +7,7 @@
 
 $ A Budding FSD (Full Stack Developer) | UI/UX Desginer | Photographer for official websites | Technology Inspirer
 
-$ Get me here **https://www.linkedin.com/in/rakul-v-m-807aa2159/**
+$ Get me here **mailto:rakulcareer6@gmail.com**
 
 <hr><p align="center">
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
