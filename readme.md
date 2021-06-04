@@ -5,7 +5,7 @@
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=rakulvm" alt="Rakul"/></p>
 
-$ A Budding FSD (Full Stack Developer) | UI/UX Desginer | Photographer for official websites | Technology Inspirer
+$ A Budding Engineer | Photography enthusisast | Technology Inspirer
 
 $ Get me here &nbsp;<a href="mailto:rakulcareer6@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="postman" width="30" height="25"/> </a>
 
